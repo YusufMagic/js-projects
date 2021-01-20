@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af7a7037-4ddd-4cd0-a1fa-5c9a73312a0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../blog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fullstack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/views/dop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/views/hhh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/views/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/views/купшыеук.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../free_code_camp/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../free_code_camp/.idea/free_code_camp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../free_code_camp/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../free_code_camp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../free_code_camp/package.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kORElQYkivGByzrkYumnhWOwX2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="15.2.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/theme" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Users\Lenovo\WebstormProjects\test_node\client\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\WebstormProjects\test_node\client\src\theme" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\WebstormProjects\test_node\router" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af7a7037-4ddd-4cd0-a1fa-5c9a73312a0e" name="Default Changelist" comment="" />
+      <created>1605569547239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605569547239</updated>
+      <workItem from="1605569549336" duration="2655000" />
+      <workItem from="1605604522499" duration="2098000" />
+      <workItem from="1605614244044" duration="2311000" />
+      <workItem from="1605689537987" duration="56000" />
+      <workItem from="1609666254120" duration="946000" />
+      <workItem from="1609879734632" duration="6340000" />
+      <workItem from="1610030793302" duration="235000" />
+      <workItem from="1610031382198" duration="2982000" />
+      <workItem from="1610055570367" duration="317000" />
+      <workItem from="1610080955070" duration="4528000" />
+      <workItem from="1610130543817" duration="2587000" />
+      <workItem from="1610191978992" duration="3894000" />
+      <workItem from="1610236059910" duration="4082000" />
+      <workItem from="1610288193054" duration="14032000" />
+      <workItem from="1610339253297" duration="292000" />
+      <workItem from="1610378568189" duration="2917000" />
+      <workItem from="1610389966785" duration="1822000" />
+      <workItem from="1610455706223" duration="3017000" />
+      <workItem from="1610460665274" duration="98000" />
+      <workItem from="1610475980170" duration="7126000" />
+      <workItem from="1610492133830" duration="1197000" />
+      <workItem from="1610645451291" duration="2219000" />
+      <workItem from="1610671083192" duration="19431000" />
+      <workItem from="1610807205969" duration="5048000" />
+      <workItem from="1610819725960" duration="879000" />
+      <workItem from="1610820755765" duration="900000" />
+      <workItem from="1610868965042" duration="3804000" />
+      <workItem from="1610897325752" duration="3534000" />
+      <workItem from="1610914622516" duration="4663000" />
+      <workItem from="1610921974119" duration="1553000" />
+      <workItem from="1610961066491" duration="2792000" />
+      <workItem from="1610964937588" duration="5668000" />
+      <workItem from="1610978045850" duration="6101000" />
+      <workItem from="1610988652815" duration="1509000" />
+      <workItem from="1611012563803" duration="3209000" />
+      <workItem from="1611049885313" duration="16622000" />
+      <workItem from="1611094509089" duration="2197000" />
+      <workItem from="1611128777696" duration="1537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="236" key="#Notifications" timestamp="1610817360836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1610817360836" />
+    <state x="147" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610647480933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1610647480933" />
+    <state x="932" y="167" key="FileChooserDialogImpl" timestamp="1610460735454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="932" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610460735454" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1609884834745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609884834745" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1610917401351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1610917401351" />
+  </component>
+</project>
